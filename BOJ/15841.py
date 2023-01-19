@@ -17,4 +17,3 @@ k = int(input())
 while k != -1:    
     print("Hour", str(k) + ":", fibo(k), "cow(s) affected")
     k = int(input())
-  
